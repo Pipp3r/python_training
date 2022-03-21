@@ -1,0 +1,1 @@
+olá, seja bem vindo. Esse é meu repositório pessoal onde guardo todos os meus códigos desde que comecei a praticar python. 
